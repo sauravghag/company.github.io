@@ -1,0 +1,45 @@
+@media screen and (max-width: 1024px){
+    .nav-item{
+        padding: 0px 15px;
+    }
+    .navbar-nav li.nav-item{
+        margin: 15px 0px;
+        text-align: center;
+    }
+    .navbar-nav-bg{
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+    .about-container{
+        margin: auto;
+        padding: 60px 0px;
+        display: inline-block;
+    }
+    .container-founder{
+        padding: 10px;
+        margin: auto;
+    }
+    .mrc{
+        display: inline-block;
+    }
+    .srg{
+        display: inline-block;
+    }
+    .services{
+        padding: 60px 0px;
+    }
+    .services.section-padding{
+        margin: 0;
+    }
+    .services-single{
+        margin: 10px;
+    }
+    .section-padding.portfolio{
+        padding: 60px 0px;
+    }
+    .blog-content{
+        padding-bottom: 60px;
+    }
+    .section-padding.contact{
+        padding: 60px 0px 0px 0px;
+    }
+}
